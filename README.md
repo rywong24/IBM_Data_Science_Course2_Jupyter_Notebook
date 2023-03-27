@@ -1,5 +1,7 @@
 # Jupyter_Notebook
 
+## My_Jupyter_Notebook_on_Watson_Studio_Assignment
+
 Include at least 6 cells:
 
 Cell 1 (rendered as Markdown): The title should be "My Jupyter Notebook on IBM Watson Studio", in H1 header styling. The title does not need to be centered.
